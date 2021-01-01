@@ -1,0 +1,4 @@
+baseURL = "https://magiccardsyes.vercel.app"
+languageCode = "en-us"
+title = "Magic Cards Wallpaper"
+theme = "hugo-theme-minos"
